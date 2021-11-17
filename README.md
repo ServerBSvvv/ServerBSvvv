@@ -5,3 +5,4 @@
 ### 🌱 I’m currently learning HTML, CSS, JavaScript, Java and C#
 ### 📫 How to reach me: My discord ServerBSvvv#3400
 ### ⚡ Fun fact: I do not only privatki on brawl stars, but also sites!
+### ⚡ Fun fact 2: i'm learing reverse engenering!
