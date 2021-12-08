@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github-view-count.herokuapp.com/)
 
 ### 🔭 I’m currently working on private server Brawl stars v20 on Python with online battles!
 ### 🌱 I’m currently learning HTML, CSS, JavaScript, Python and C#
